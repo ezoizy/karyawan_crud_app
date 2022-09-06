@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ahmad Rojali",
+    "age": "20",
+    "email": "ahmad@mail.com",
+    "phone_number": "081293213",
+    "address": "Jl Kemayoran"
+  },
+  {
+    "name": "Pitung Rojali",
+    "age": "22",
+    "email": "pitung@mail.com",
+    "phone_number": "08129332132",
+    "address": "Jl Kemayoran 2"
+  },
+  {
+    "name": "Edgar Aldebarand",
+    "age": "23",
+    "email": "edgar@mail.com",
+    "phone_number": "0852123212",
+    "address": "Jl Kemayoran 3"
+  }
+]
